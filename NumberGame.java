@@ -72,7 +72,7 @@ public class NumberGame {
         }
 
         System.out.println("\nGame Over! Total Rounds: " + (round - 1));
-        System.out.println("🏆 Final Score: " + totalScore);
+        System.out.println("Final Score: " + totalScore);
         System.out.println("Thanks for playing!");
         input.close();
     }
