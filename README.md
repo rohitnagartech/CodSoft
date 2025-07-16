@@ -56,7 +56,7 @@ All tasks were completed and uploaded to my GitHub profile.
 
 ## 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/rohitnagar-tech)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rohitnagartech/)
 - 📧 Email: rohitnagartech124@gmail.com
 
 ---
