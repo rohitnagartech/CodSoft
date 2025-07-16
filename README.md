@@ -23,9 +23,6 @@ All tasks were completed and uploaded to my GitHub profile.
 | Task 2     | Number Guessing Game       | [View Code](https://github.com/rohitnagartech/CodeSoft/blob/main/NumberGame.java) |
 | Task 3     | Student Grade Calculator   | [View Code](https://github.com/rohitnagartech/CodeSoft/blob/main/StudentGradeCalculator.java) |
 | Task 4     | ATM Interface Simulation   | [View Code](https://github.com/rohitnagartech/CodeSoft/blob/main/ATMInterface.java) |
-| Task 5     | Online Quiz Application    | [View Code](https://github.com/yourusername/task5-quiz-app) |
-
-> 🔗 *Replace the above links with your actual GitHub repo links.*
 
 ---
 
