@@ -34,6 +34,7 @@ All tasks were completed and uploaded to my GitHub profile.
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-%231572B6.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intellij IDEA-24a6c4?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
