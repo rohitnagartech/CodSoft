@@ -1,67 +1,90 @@
 # ☕ Java Virtual Internship – CodeSoft 🚀
 
-### 🧑‍💻 Completed by: **Rohit Nagar**
-**📅 Duration:** [Insert Month & Year]  
+### 🧑‍💻 Completed by: **Rohit Nagar**  
+**📅 Duration:** June–July 2025  
 **🏢 Organization:** CodeSoft  
 **📂 Internship Type:** Virtual | Java Development
 
 ---
 
-## 💼 About the Internship
-This Java Virtual Internship, offered by **CodeSoft**, was designed to build real-world Java development experience through a series of practical tasks. The program focused on core concepts of Java including object-oriented programming, file handling, GUI-based projects, and data structures.
+## 📌 About the Internship
 
-🔧 I have successfully completed and submitted all assigned tasks, which are available here on my GitHub.
+This Java Virtual Internship by **CodeSoft** provided practical experience in core Java concepts and hands-on projects. I worked on real-world tasks, developed full Java applications, and gained industry-ready programming experience.
+
+All tasks were completed and uploaded to my GitHub profile.
 
 ---
 
-## 📁 Task List & Submissions
+## 📁 Tasks & Submissions
 
-| ✅ Task No. | 🔖 Task Title | 📎 Description | 🔗 GitHub Link |
-|------------|----------------|----------------|----------------|
-| Task 1 | *Simple Calculator* | A basic calculator with GUI for +, -, *, / operations | [View Code](#) |
-| Task 2 | *Number Guessing Game* | A fun console-based game using random number logic | [View Code](#) |
-| Task 3 | *Student Grade Calculator* | Takes subject marks and returns grades and percentages | [View Code](#) |
-| Task 4 | *ATM Interface Simulation* | Simulates user transactions and balance checks | [View Code](#) |
-| Task 5 | *Online Quiz App (Mini Project)* | A Java-based quiz system using OOP concepts | [View Code](#) |
+| ✅ Task No. | 📋 Task Name               | 🔗 GitHub Link |
+|------------|----------------------------|----------------|
+| Task 1     | Simple Calculator          | [View Code](https://github.com/yourusername/task1-calculator) |
+| Task 2     | Number Guessing Game       | [View Code](https://github.com/yourusername/task2-number-guessing) |
+| Task 3     | Student Grade Calculator   | [View Code](https://github.com/yourusername/task3-grade-calculator) |
+| Task 4     | ATM Interface Simulation   | [View Code](https://github.com/yourusername/task4-atm-interface) |
+| Task 5     | Online Quiz Application    | [View Code](https://github.com/yourusername/task5-quiz-app) |
 
-> 🔗 *Replace `#` with the actual links to your GitHub repositories*
+> 🔗 *Replace the above links with your actual GitHub repo links.*
+
+---
+
+## 🛠️ Tech Stack Used
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-%231572B6.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swing-AWT-4479A1?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 💡 Skills Gained
 
-- ✅ Object-Oriented Programming (OOP)  
-- ✅ Java Swing & AWT for GUI development  
-- ✅ Java File Handling  
-- ✅ Basic Java Projects & Mini Applications  
-- ✅ Problem-solving & Logical Thinking  
+- ✅ Core Java & OOP Concepts  
+- ✅ Java GUI with Swing/AWT  
+- ✅ File Handling in Java  
+- ✅ Data Structures & Logic Building  
+- ✅ Application Design & Development  
+- ✅ Git & GitHub Collaboration
 
 ---
 
-## 🧠 Experience Summary
+## ✨ Highlights
 
-This internship not only enhanced my **Java programming fundamentals**, but also gave me real exposure to **developing independent applications**. Each task was a stepping stone toward becoming a **better problem solver and confident developer**.
+- Designed, developed, and deployed multiple Java projects  
+- Applied real-world problem-solving techniques  
+- Improved code readability and modularity  
+- Learned to follow clean code and file structure standards
 
 ---
 
-## 📸 Sneak Peek
+## 📸 Project Snapshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/[your-task-screenshot]" width="30%" />
-  <img src="https://github.com/user-attachments/assets/[your-task-screenshot]" width="30%" />
+  <img src="https://github.com/user-attachments/assets/example1.png" width="30%">
+  <img src="https://github.com/user-attachments/assets/example2.png" width="30%">
 </p>
 
----
-
-## 📫 Let's Connect
-
-- 📧 Email: rohitnagartech124@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/rohitnagar-tech](https://www.linkedin.com/in/rohitnagar-tech)  
-- 📁 Portfolio: [View Portfolio](#)
+> 📷 *Screenshots from the task apps. Replace these with your actual image URLs from GitHub or local uploads.*
 
 ---
 
-### ⭐ Thank you [CodeSoft](https://www.codesoft.in/) for this amazing learning opportunity!
+## 📬 Let's Connect
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+- 🔗 [LinkedIn](https://linkedin.com/in/rohitnagar-tech)
+- 💼 [Portfolio](https://yourportfolio.com)
+- 📧 Email: rohitnagartech124@gmail.com
 
+---
+
+## 🙏 Acknowledgement
+
+> Huge thanks to **CodeSoft** for this learning opportunity and guidance throughout the internship journey.
+
+> _“The best way to learn is by doing.”_ — Paul Halmos
+
+---
+
+⭐ _Give this repo a ⭐ if you like my work!_
