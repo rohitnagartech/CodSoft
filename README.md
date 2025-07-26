@@ -1,15 +1,15 @@
-# ☕ Java Virtual Internship – CodeSoft 🚀
+# ☕ Java Virtual Internship – CodSoft 🚀
 
 ### 🧑‍💻 Completed by: **Rohit Nagar**  
 **📅 Duration:** From 10 July 2025 To 10 August 2025
-**🏢 Organization:** CodeSoft  
+**🏢 Organization:** CodSoft  
 **📂 Internship Type:** Virtual | Java Programming
 
 ---
 
 ## 📌 About the Internship
 
-This Java Virtual Internship by **CodeSoft** provided practical experience in core Java concepts and hands-on projects. I worked on real-world tasks, developed full Java applications, and gained industry-ready programming experience.
+This Java Virtual Internship by **CodSoft** provided practical experience in core Java concepts and hands-on projects. I worked on real-world tasks, developed full Java applications, and gained industry-ready programming experience.
 
 All tasks were completed and uploaded to my GitHub profile.
 
@@ -63,7 +63,7 @@ All tasks were completed and uploaded to my GitHub profile.
 
 ## 🙏 Acknowledgement
 
-> Huge thanks to **CodeSoft** for this learning opportunity and guidance throughout the internship journey.
+> Huge thanks to **CodSoft** for this learning opportunity and guidance throughout the internship journey.
 
 > _“The best way to learn is by doing.”_ — Paul Halmos
 
